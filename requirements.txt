@@ -1,0 +1,7 @@
+playwright
+python-dotenv
+asyncio
+fastapi
+uvicorn
+websockets
+jinja2

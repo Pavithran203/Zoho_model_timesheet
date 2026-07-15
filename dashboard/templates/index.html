@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NEURAL CORE | AI Automation Bot</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="bg-gradient"></div>
+    <div class="gradient-orb" style="top: 10%; left: 10%;"></div>
+    <div class="gradient-orb" style="bottom: 10%; right: 10%; animation-delay: -5s;"></div>
+
+    <header>
+        <div class="logo">NEURAL CORE_</div>
+        <div class="status-badge">
+            <div class="status-dot"></div>
+            <span id="system-status">AGENT READY</span>
+        </div>
+    </header>
+
+    <main>
+        <div class="visualizer-container">
+            <div class="bot-hub">
+                <div class="bot-core">
+                    <div class="bot-icon">🤖</div>
+                </div>
+            </div>
+
+            <div class="view-finder">
+                <div class="scan-line"></div>
+                <div id="screenshot-container">
+                    <!-- Dynamic bot screenshots will appear here -->
+                    <span style="color: #333; font-size: 0.8rem;">[ VIDEO STREAM STANDBY ]</span>
+                </div>
+            </div>
+
+            <div class="steps-container">
+                <div class="step" id="step-connect">
+                    <div class="step-node"></div>
+                    <span>CONNECT</span>
+                </div>
+                <div class="step" id="step-extract">
+                    <div class="step-node"></div>
+                    <span>EXTRACT</span>
+                </div>
+                <div class="step" id="step-decide">
+                    <div class="step-node"></div>
+                    <span>DECIDE</span>
+                </div>
+                <div class="step" id="step-execute">
+                    <div class="step-node"></div>
+                    <span>EXECUTE</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="sidebar">
+            <div class="log-panel">
+                <h3>Vortex Stream_</h3>
+                <div class="log-list" id="log-list">
+                    <div class="log-item info">
+                        <div class="log-time">10:04:52</div>
+                        System initialized. Waiting for task...
+                    </div>
+                </div>
+            </div>
+
+            <div class="control-panel">
+                <button class="btn btn-primary" id="start-btn">
+                    <span>LAUNCH BOT</span>
+                </button>
+            </div>
+        </div>
+    </main>
+
+    <script src="/static/app.js"></script>
+</body>
+
+</html>

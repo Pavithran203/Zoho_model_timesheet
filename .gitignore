@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Debugging and temporary screenshots
+add_btn_fail_*.png
+after_save.png
+before_save.png
+date_fill_test.png
+date_test_result.png
+log_time_not_found.png
+time_fill.png
+time_fill_2.png
+LOGIN_TIMEOUT_STATE.png

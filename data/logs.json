@@ -1,0 +1,490 @@
+[
+    {
+        "employee": "Unknown",
+        "shift_end": "Unknown",
+        "logout_status": "Skipped",
+        "work_log_status": "Skipped",
+        "error": "Login Failed",
+        "timestamp": "2026-02-28T10:27:06.989148"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "Unknown",
+        "logout_status": "Skipped",
+        "work_log_status": "Skipped",
+        "error": "Login Failed",
+        "timestamp": "2026-02-28T10:31:00.769151"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "Unknown",
+        "logout_status": "Skipped",
+        "work_log_status": "Skipped",
+        "error": "Login Failed",
+        "timestamp": "2026-02-28T10:33:56.017790"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "Unknown",
+        "logout_status": "Skipped",
+        "work_log_status": "Skipped",
+        "error": "Login Failed",
+        "timestamp": "2026-02-28T10:35:31.839779"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "Unknown",
+        "logout_status": "Skipped",
+        "work_log_status": "Skipped",
+        "error": "Login Failed",
+        "timestamp": "2026-02-28T10:39:20.054076"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "Unknown",
+        "logout_status": "Skipped",
+        "work_log_status": "Skipped",
+        "error": "Login Failed",
+        "timestamp": "2026-02-28T10:40:22.417135"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Failed",
+        "error": null,
+        "timestamp": "2026-02-28T10:42:14.138396"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Failed",
+        "error": null,
+        "timestamp": "2026-02-28T10:45:04.722590"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Failed",
+        "error": null,
+        "timestamp": "2026-02-28T10:50:27.775761"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Failed",
+        "error": null,
+        "timestamp": "2026-02-28T10:57:38.464063"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Failed",
+        "error": null,
+        "timestamp": "2026-02-28T10:59:25.957325"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Failed",
+        "error": null,
+        "timestamp": "2026-03-02T11:30:52.751351"
+    },
+    {
+        "employee": "Ramalingam Pavithran",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Failed",
+        "error": null,
+        "timestamp": "2026-03-02T11:55:44.500112"
+    },
+    {
+        "employee": "Ramalingam Pavithran",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Failed",
+        "error": null,
+        "timestamp": "2026-03-02T11:57:45.960707"
+    },
+    {
+        "employee": "Ramalingam Pavithran",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-02T12:27:09.655398"
+    },
+    {
+        "employee": "Ramalingam Pavithran",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-02T12:31:33.770187"
+    },
+    {
+        "employee": "Ramalingam Pavithran",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-02T12:33:01.680033"
+    },
+    {
+        "employee": "Ramalingam Pavithran",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-02T12:35:20.869576"
+    },
+    {
+        "employee": "Ramalingam Pavithran",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-02T12:37:08.817448"
+    },
+    {
+        "employee": "Ramalingam Pavithran",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-02T12:39:09.717956"
+    },
+    {
+        "employee": "Ramalingam Pavithran",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-02T12:41:09.414042"
+    },
+    {
+        "employee": "Ramalingam Pavithran",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-02T12:44:35.836331"
+    },
+    {
+        "employee": "Ramalingam Pavithran",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-02T12:46:16.296228"
+    },
+    {
+        "employee": "Ramalingam Pavithran",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-02T12:48:25.044919"
+    },
+    {
+        "employee": "Ramalingam Pavithran",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-02T15:06:00.631898"
+    },
+    {
+        "employee": "Ramalingam Pavithran",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-02T15:10:41.323200"
+    },
+    {
+        "employee": "Ramalingam Pavithran",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-02T15:14:11.077546"
+    },
+    {
+        "employee": "Ramalingam Pavithran",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-04T10:37:56.857944"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "Unknown",
+        "logout_status": "Skipped",
+        "work_log_status": "Skipped",
+        "error": "Login Failed",
+        "timestamp": "2026-03-04T10:55:31.823569"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "Unknown",
+        "logout_status": "Skipped",
+        "work_log_status": "Skipped",
+        "error": "Login Failed",
+        "timestamp": "2026-03-04T10:57:01.984468"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-04T11:01:38.216062"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "Unknown",
+        "logout_status": "Skipped",
+        "work_log_status": "Skipped",
+        "error": "Login Failed",
+        "timestamp": "2026-03-04T11:03:05.888626"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-04T11:05:37.840150"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "Unknown",
+        "logout_status": "Skipped",
+        "work_log_status": "Skipped",
+        "error": "Login Failed",
+        "timestamp": "2026-03-04T11:24:51.531738"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "Unknown",
+        "logout_status": "Skipped",
+        "work_log_status": "Skipped",
+        "error": "Login Failed",
+        "timestamp": "2026-03-04T11:25:53.917818"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "Unknown",
+        "logout_status": "Skipped",
+        "work_log_status": "Skipped",
+        "error": "Login Failed",
+        "timestamp": "2026-03-04T11:27:25.478704"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "Unknown",
+        "logout_status": "Skipped",
+        "work_log_status": "Skipped",
+        "error": "name 'asyncio' is not defined",
+        "timestamp": "2026-03-04T12:43:17.625158"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-04T12:46:23.069797"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-04T12:49:32.519038"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-04T12:53:06.595144"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-04T12:54:39.396609"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-04T12:57:06.566734"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-04T12:59:49.293355"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-04T13:01:51.334003"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-04T13:05:19.284264"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "Unknown",
+        "logout_status": "Skipped",
+        "work_log_status": "Skipped",
+        "error": "Login Failed",
+        "timestamp": "2026-03-04T13:06:24.606726"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-04T13:08:18.402331"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-04T13:10:25.787961"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-04T13:11:58.782138"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "Unknown",
+        "logout_status": "Skipped",
+        "work_log_status": "Skipped",
+        "error": "Login Failed",
+        "timestamp": "2026-03-04T13:13:58.082829"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "Unknown",
+        "logout_status": "Skipped",
+        "work_log_status": "Skipped",
+        "error": "Login Failed",
+        "timestamp": "2026-03-04T13:14:32.065554"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-06T10:57:14.661540"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-06T11:51:15.508266"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-09T13:01:12.546692"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-09T13:09:19.967647"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "Unknown",
+        "logout_status": "Skipped",
+        "work_log_status": "Skipped",
+        "error": "Login Failed",
+        "timestamp": "2026-03-09T13:12:36.778739"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-09T13:15:02.848118"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-10T12:44:32.249749"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "Unknown",
+        "logout_status": "Skipped",
+        "work_log_status": "Skipped",
+        "error": "Keyboard.press: Target page, context or browser has been closed",
+        "timestamp": "2026-03-10T13:23:33.475213"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": null,
+        "timestamp": "2026-03-11T12:18:55.358256"
+    },
+    {
+        "employee": "Unknown",
+        "shift_end": "18:00",
+        "logout_status": "Skipped",
+        "work_log_status": "Success",
+        "error": "Page.screenshot: Target page, context or browser has been closed",
+        "timestamp": "2026-03-11T15:13:27.799835"
+    }
+]
